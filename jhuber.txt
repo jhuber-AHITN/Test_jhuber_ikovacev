@@ -1,0 +1,6 @@
+git clone https://github.com/jhuber-AHITN/Test_jhuber_ikovacev
+cd Test_jhuber_ikovacev
+vi jhuber.txt
+git add jhuber.txt
+git commit
+git push
