@@ -1,1 +1,6 @@
-Alo
+Git clone [URL von Repository]
+cd [RepName]
+vi Ikovacev.txt
+git add ikovacev.txt
+git commit
+git push
