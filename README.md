@@ -3,6 +3,6 @@ Julian Huber
 Kovacevic Ismael
 ikovacev@htl-steyr.ac.at
 
-
-| Manuel Eder | https://www.github.com/ManuelEderr |
-|-------------|------------------------------------|
+---
+## 2022.01.21 Wittner
+geht jo eh
